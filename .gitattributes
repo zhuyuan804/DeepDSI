@@ -1,0 +1,4 @@
+track filter=lfs diff=lfs merge=lfs -text
+human/blast/ssn.txt filter=lfs diff=lfs merge=lfs -text
+human/data/string/ppi_entry.txt filter=lfs diff=lfs merge=lfs -text
+File filter=lfs diff=lfs merge=lfs -text

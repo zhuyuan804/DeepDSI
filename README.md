@@ -1,5 +1,5 @@
 # DeepDSI
-Deubiquitinating -substrate interaction prediction model
+Deubiquitinating enzyme-substrate interaction prediction model
 
 1.Human protein and sequence from Uniprot.
 
